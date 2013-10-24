@@ -77,6 +77,11 @@
         this.vertical.update();
       }
     }
+    
+    this.inner.css({
+      'width': this.el.width() + scrollbarSize()
+    , 'height': this.el.height() + scrollbarSize()
+    });
   };
 
   /**
