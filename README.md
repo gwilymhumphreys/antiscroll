@@ -1,6 +1,6 @@
 # Antiscroll: cross-browser native OSX Lion scrollbars
 
-#### Minor tweak to work inside position:fixed elements 
+Forked to add a tweak to work inside position:fixed elements 
 
 Antiscroll fixes a fundamental problem JavaScript UI developers commonly face:
 how do I customize scrollbars so that they get out of the way (for example, for
